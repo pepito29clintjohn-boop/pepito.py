@@ -1,6 +1,6 @@
-score = 100
+s = 100
 
-if score < 60:
+if s > 60:
     print("passed")
 else:
     print("failed")
